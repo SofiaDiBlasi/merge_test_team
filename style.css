@@ -5,6 +5,14 @@
     font-family: sans-serif;
 }
 
+.navLinks{
+    list-style-type: none;
+}
+
+.navBg{
+    background-color: #f2f4b3;
+}
+
 /*COLORI
 #f2f4b3 panna
 #8ec462 verdino
