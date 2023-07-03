@@ -1,9 +1,46 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
+
+footer {
+    width: 100vw;
+    min-height: 20rem;
+    background: url(https://citynews-today.stgy.ovh/~media/horizontal-hi/52863484628788/gatto-41.jpg);
+    background-size: cover;
+    background-position: top;
+    color: white;
+    display: flex;
+
+}
+
+.footerTop {
+    width: 100vw;
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.containerF {
+    width: 100vw;
+    height: 5rem;
+    background-color: #8ec462;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btnButton {
+    margin: 0.1rem;
+
+}
+
 
 /*COLORI
 #f2f4b3 panna
