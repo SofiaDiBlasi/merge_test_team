@@ -9,4 +9,15 @@
 #f2f4b3 panna
 #8ec462 verdino
 #ffffff bianco
-#000000 nero /*
+#000000 nero */
+
+
+/* section del form */
+.form{
+    background-color: #f2f4b3;
+}
+
+
+.bg_color_green{
+    background-color: #8ec462 !important;
+}
